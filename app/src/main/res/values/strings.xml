@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">web-api-anton</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_button_text">Авторизоваться</string>
+    <string name="registration_button_text">Зарегистрироваться</string>
+    <string name="password_hint_edit_text">Password</string>
+    <string name="password_text_view">Пароль</string>
+    <string name="email_hint_edit_text">yourmail@mail.ru</string>
+    <string name="login_text_view">Логин</string>
+    <string name="confirm_password_hint_edit_text">Confirm password</string>
+    <string name="confirm_password_text_view">Подтверждение пароля</string>
+</resources>
